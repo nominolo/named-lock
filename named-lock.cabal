@@ -5,8 +5,8 @@ License-File:    LICENSE
 Author:          Thomas Schilling <nominolo@googlemail.com>
 Maintainer:      Thomas Schilling <nominolo@googlemail.com>
 Homepage:        http://github.com/nominolo/named-lock
-Description:     A named lock that is created on demand.
-Synopsis:
+Synopsis:        A named lock that is created on demand.
+Description:
   A named lock that is created on demand.
   .
   This is useful for situations where there is a potentially infinite
